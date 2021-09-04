@@ -1,1 +1,1 @@
-# RegressionandLasso
+# Ridge and Lasso Regression
